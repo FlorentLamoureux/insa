@@ -1,1 +1,2 @@
 Contenu d'un fichier de test
+\nNouvelle information
